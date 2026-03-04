@@ -1,0 +1,10 @@
+(kicad_sch
+  (version 20211014)
+  (generator "ChatGPT")
+  (paper "A4")
+  (title_block
+    (title "DriveEasy AI Dashcam")
+    (rev "1.0")
+    (company "DriveEasy")
+  )
+)
