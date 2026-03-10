@@ -1,0 +1,240 @@
+Error: Duplicate items C111
+
+Error: Duplicate items C111
+
+Error: Duplicate items C111
+
+Error: Duplicate items C111
+
+Error: Duplicate items C111
+
+Error: Duplicate items C111
+
+Error: Duplicate items C170
+
+Error: Duplicate items C170
+
+Error: Duplicate items C170
+
+Error: Duplicate items C170
+
+Error: Duplicate items C170
+
+Error: Duplicate items C170
+
+Error: Duplicate items C171
+
+Error: Duplicate items C171
+
+Error: Duplicate items C171
+
+Error: Duplicate items C171
+
+Error: Duplicate items C171
+
+Error: Duplicate items C171
+
+Error: Duplicate items C172
+
+Error: Duplicate items C172
+
+Error: Duplicate items C172
+
+Error: Duplicate items C172
+
+Error: Duplicate items C172
+
+Error: Duplicate items C172
+
+Error: Duplicate items C191
+
+Error: Duplicate items C191
+
+Error: Duplicate items C191
+
+Error: Duplicate items C191
+
+Error: Duplicate items C191
+
+Error: Duplicate items C191
+
+Error: Duplicate items C22
+
+Error: Duplicate items C23
+
+Error: Duplicate items C24
+
+Error: Duplicate items C25
+
+Error: Duplicate items C26
+
+Error: Duplicate items C27
+
+Error: Duplicate items C28
+
+Error: Duplicate items C29
+
+Error: Duplicate items C30
+
+Error: Duplicate items C31
+
+Error: Duplicate items C32
+
+Error: Duplicate items C33
+
+Error: Duplicate items C34
+
+Error: Duplicate items C35
+
+Error: Duplicate items C36
+
+Error: Duplicate items C62
+
+Error: Duplicate items D10
+
+Error: Duplicate items D11
+
+Error: Duplicate items D12
+
+Error: Duplicate items D12
+
+Error: Duplicate items D12
+
+Error: Duplicate items D12
+
+Error: Duplicate items D12
+
+Error: Duplicate items D12
+
+Error: Duplicate items D12
+
+Error: Duplicate items D16
+
+Error: Duplicate items D16
+
+Error: Duplicate items D16
+
+Error: Duplicate items D16
+
+Error: Duplicate items D16
+
+Error: Duplicate items D16
+
+Error: Duplicate items D33
+
+Error: Duplicate items D33
+
+Error: Duplicate items D33
+
+Error: Duplicate items D33
+
+Error: Duplicate items D33
+
+Error: Duplicate items D33
+
+Error: Duplicate items D40
+
+Error: Duplicate items D40
+
+Error: Duplicate items D40
+
+Error: Duplicate items D40
+
+Error: Duplicate items D40
+
+Error: Duplicate items D40
+
+Error: Duplicate items D57
+
+Error: Duplicate items D57
+
+Error: Duplicate items D57
+
+Error: Duplicate items D57
+
+Error: Duplicate items D57
+
+Error: Duplicate items D57
+
+Error: Duplicate items D8
+
+Error: Duplicate items D9
+
+Error: Duplicate items F2
+
+Error: Duplicate items J10
+
+Error: Duplicate items J50
+
+Error: Duplicate items J50
+
+Error: Duplicate items J50
+
+Error: Duplicate items J50
+
+Error: Duplicate items J50
+
+Error: Duplicate items J50
+
+Error: Duplicate items J57
+
+Error: Duplicate items J57
+
+Error: Duplicate items J57
+
+Error: Duplicate items J57
+
+Error: Duplicate items J57
+
+Error: Duplicate items J57
+
+Error: Duplicate items J64
+
+Error: Duplicate items J64
+
+Error: Duplicate items J64
+
+Error: Duplicate items J64
+
+Error: Duplicate items J64
+
+Error: Duplicate items J64
+
+Error: Duplicate items R122
+
+Error: Duplicate items R122
+
+Error: Duplicate items R122
+
+Error: Duplicate items R122
+
+Error: Duplicate items R122
+
+Error: Duplicate items R122
+
+Error: Duplicate items R18
+
+Error: Duplicate items R19
+
+Error: Duplicate items R20
+
+Error: Duplicate items R21
+
+Error: Duplicate items R22
+
+Error: Duplicate items R23
+
+Error: Duplicate items R24
+
+Error: Duplicate items R25
+
+Error: Duplicate items R26
+
+Error: Duplicate items R27
+
+Error: Duplicate items R28
+
+Error: Duplicate items R29
+
+Error: Duplicate items U3
+

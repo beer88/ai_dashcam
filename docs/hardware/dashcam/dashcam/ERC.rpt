@@ -1,0 +1,348 @@
+ERC report (2026-03-10T10:41:39+0530, Encoding UTF8)
+
+***** Sheet /00_System_Overview.kicad_sch/
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(1050 mils, 2000 mils): Symbol #PWR01 Pin 1 [Power input, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(3750 mils, 3900 mils): Symbol J13 Pin 1 [VCC, Power input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(3750 mils, 4000 mils): Symbol J13 Pin 2 [RST, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(3750 mils, 4100 mils): Symbol J13 Pin 3 [CLK, Input, Line]
+[duplicate_reference]: Duplicate items J3
+
+    ; error
+    @(1850 mils, 2050 mils): Symbol J3 [Conn_02x20_Odd_Even]
+    @(1850 mils, 2050 mils): Symbol J3 [Conn_02x20_Odd_Even]
+[duplicate_reference]: Duplicate items J25
+
+    ; error
+    @(2200 mils, 4700 mils): Symbol J25 [Conn_01x05]
+    @(2200 mils, 4700 mils): Symbol J25 [Conn_01x05]
+[duplicate_reference]: Duplicate items J11
+
+    ; error
+    @(5450 mils, 1400 mils): Symbol J11 [Conn_01x15]
+    @(5450 mils, 1400 mils): Symbol J11 [Conn_01x15]
+[duplicate_reference]: Duplicate items J50
+
+    ; error
+    @(2200 mils, 5650 mils): Symbol J50 [Conn_01x04]
+    @(2200 mils, 5650 mils): Symbol J50 [Conn_01x04]
+[duplicate_reference]: Duplicate items J32
+
+    ; error
+    @(1150 mils, 6100 mils): Symbol J32 [Conn_01x02]
+    @(1150 mils, 6100 mils): Symbol J32 [Conn_01x02]
+[duplicate_reference]: Duplicate items J39
+
+    ; error
+    @(1150 mils, 6450 mils): Symbol J39 [Conn_Coaxial]
+    @(1150 mils, 6450 mils): Symbol J39 [Conn_Coaxial]
+[duplicate_reference]: Duplicate items J55
+
+    ; error
+    @(2400 mils, 6450 mils): Symbol J55 [USB_B_Micro]
+    @(2400 mils, 6450 mils): Symbol J55 [USB_B_Micro]
+[duplicate_reference]: Duplicate items J64
+
+    ; error
+    @(2100 mils, 7100 mils): Symbol J64 [Conn_01x06]
+    @(2100 mils, 7100 mils): Symbol J64 [Conn_01x06]
+[duplicate_reference]: Duplicate items J18
+
+    ; error
+    @(5450 mils, 6350 mils): Symbol J18 [Micro_SD_Card]
+    @(5450 mils, 6350 mils): Symbol J18 [Micro_SD_Card]
+[duplicate_reference]: Duplicate items U5
+
+    ; error
+    @(8650 mils, 2050 mils): Symbol U5 [a7670c_gsm]
+    @(8650 mils, 2050 mils): Symbol U5 [a7670c_gsm]
+[label_dangling]: Label not connected to anything
+    ; error
+    @(2000 mils, 6350 mils): Label 'USB_DM'
+[label_dangling]: Label not connected to anything
+    ; error
+    @(2000 mils, 6450 mils): Label 'USB_DP'
+[label_dangling]: Label not connected to anything
+    ; error
+    @(7500 mils, 3600 mils): Label 'GSM_STATUS'
+[label_dangling]: Label not connected to anything
+    ; error
+    @(9650 mils, 500 mils): Label 'VBAT_3V8'
+[label_dangling]: Label not connected to anything
+    ; error
+    @(7900 mils, 6050 mils): Label 'PWR_LED'
+[label_dangling]: Label not connected to anything
+    ; error
+    @(9700 mils, 3100 mils): Label 'GSM_USB_DP'
+[label_dangling]: Label not connected to anything
+    ; error
+    @(9700 mils, 3200 mils): Label 'GSM_USB_DM'
+[label_dangling]: Label not connected to anything
+    ; error
+    @(9750 mils, 3400 mils): Label 'SIM_VDD'
+[label_dangling]: Label not connected to anything
+    ; error
+    @(9750 mils, 3500 mils): Label 'SIM_IO'
+[label_dangling]: Label not connected to anything
+    ; error
+    @(9750 mils, 3600 mils): Label 'SIM_CLK'
+[label_dangling]: Label not connected to anything
+    ; error
+    @(9700 mils, 3800 mils): Label 'SIM_DETECT_SWITCH'
+[label_dangling]: Label not connected to anything
+    ; error
+    @(9750 mils, 3700 mils): Label 'SIM_RST'
+[footprint_link_issues]: The current configuration does not include the footprint library '4ms_Connector'.
+    ; warning
+    @(2200 mils, 5700 mils): Symbol J7 [Conn_01x04]
+[footprint_link_issues]: The current configuration does not include the footprint library '4ms_Connector'.
+    ; warning
+    @(1150 mils, 6150 mils): Symbol J1 [Conn_01x02]
+[footprint_link_issues]: The current configuration does not include the footprint library '4ms_Connector'.
+    ; warning
+    @(2100 mils, 7150 mils): Symbol J5 [Conn_01x06]
+[no_connect_dangling]: Unconnected "no connection" flag
+    ; warning
+    @(9550 mils, 3700 mils): No Connect
+[footprint_link_issues]: The current configuration does not include the footprint library '4ms_Connector'.
+    ; warning
+    @(2200 mils, 5650 mils): Symbol J50 [Conn_01x04]
+[footprint_link_issues]: The current configuration does not include the footprint library '4ms_Connector'.
+    ; warning
+    @(1150 mils, 6100 mils): Symbol J32 [Conn_01x02]
+[footprint_link_issues]: The current configuration does not include the footprint library '4ms_Connector'.
+    ; warning
+    @(2100 mils, 7100 mils): Symbol J64 [Conn_01x06]
+
+***** Sheet /
+
+***** Sheet /01_Power_Supply.kicad_sch/
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(2450 mils, 2000 mils): Symbol U2 Pin 2 [VIN, Power input, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(2950 mils, 2600 mils): Symbol U2 Pin 7 [GND, Power input, Line]
+[pin_to_pin]: Pins of type Power output and Power output are connected
+    ; error
+    @(3450 mils, 2200 mils): Symbol U2 Pin 8 [SW, Power output, Line]
+    @(3450 mils, 6000 mils): Symbol U3 Pin 8 [SW, Power output, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(7500 mils, 2300 mils): Symbol #PWR038 Hidden pin 1 [+12V, Power input, Line]
+[multiple_net_names]: Both +4V_LTE and FB are attached to the same items; +4V_LTE will be used in the netlist
+    ; warning
+    @(4300 mils, 2650 mils): Label '+4V_LTE'
+    @(3450 mils, 2400 mils): Label 'FB'
+
+***** Sheet /02_Raspberry_Pi_Core.kicad_sch/
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(8000 mils, 3600 mils): Symbol U5 Pin 66 [STATUS, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(9600 mils, 500 mils): Symbol U5 Pin 1 [PWRKEY, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(9600 mils, 3100 mils): Symbol U5 Pin 27 [USB_DP, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(9600 mils, 3200 mils): Symbol U5 Pin 28 [USB_DM, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(9600 mils, 3400 mils): Symbol U5 Pin 30 [SIM_VDD, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(9600 mils, 3500 mils): Symbol U5 Pin 31 [SIM_DATA, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(9600 mils, 3600 mils): Symbol U5 Pin 32 [SIM_CLK, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(9600 mils, 3700 mils): Symbol U5 Pin 33 [SIM_RST, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(9600 mils, 3800 mils): Symbol U5 Pin 34 [SIM_DET, Input, Line]
+
+***** Sheet /03_CSI_Camera_Interface.kicad_sch/
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(8000 mils, 3600 mils): Symbol U5 Pin 66 [STATUS, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(9600 mils, 500 mils): Symbol U5 Pin 1 [PWRKEY, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(9600 mils, 3100 mils): Symbol U5 Pin 27 [USB_DP, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(9600 mils, 3200 mils): Symbol U5 Pin 28 [USB_DM, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(9600 mils, 3400 mils): Symbol U5 Pin 30 [SIM_VDD, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(9600 mils, 3500 mils): Symbol U5 Pin 31 [SIM_DATA, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(9600 mils, 3600 mils): Symbol U5 Pin 32 [SIM_CLK, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(9600 mils, 3700 mils): Symbol U5 Pin 33 [SIM_RST, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(9600 mils, 3800 mils): Symbol U5 Pin 34 [SIM_DET, Input, Line]
+
+***** Sheet /04_LTE_Module.kicad_sch/
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(8000 mils, 3600 mils): Symbol U5 Pin 66 [STATUS, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(9600 mils, 500 mils): Symbol U5 Pin 1 [PWRKEY, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(9600 mils, 3100 mils): Symbol U5 Pin 27 [USB_DP, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(9600 mils, 3200 mils): Symbol U5 Pin 28 [USB_DM, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(9600 mils, 3400 mils): Symbol U5 Pin 30 [SIM_VDD, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(9600 mils, 3500 mils): Symbol U5 Pin 31 [SIM_DATA, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(9600 mils, 3600 mils): Symbol U5 Pin 32 [SIM_CLK, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(9600 mils, 3700 mils): Symbol U5 Pin 33 [SIM_RST, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(9600 mils, 3800 mils): Symbol U5 Pin 34 [SIM_DET, Input, Line]
+
+***** Sheet /05_Audio_Microphone.kicad_sch/
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(8000 mils, 3600 mils): Symbol U5 Pin 66 [STATUS, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(9600 mils, 500 mils): Symbol U5 Pin 1 [PWRKEY, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(9600 mils, 3100 mils): Symbol U5 Pin 27 [USB_DP, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(9600 mils, 3200 mils): Symbol U5 Pin 28 [USB_DM, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(9600 mils, 3400 mils): Symbol U5 Pin 30 [SIM_VDD, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(9600 mils, 3500 mils): Symbol U5 Pin 31 [SIM_DATA, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(9600 mils, 3600 mils): Symbol U5 Pin 32 [SIM_CLK, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(9600 mils, 3700 mils): Symbol U5 Pin 33 [SIM_RST, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(9600 mils, 3800 mils): Symbol U5 Pin 34 [SIM_DET, Input, Line]
+
+***** Sheet /06_Storage.kicad_sch/
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(8000 mils, 3600 mils): Symbol U5 Pin 66 [STATUS, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(9600 mils, 500 mils): Symbol U5 Pin 1 [PWRKEY, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(9600 mils, 3100 mils): Symbol U5 Pin 27 [USB_DP, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(9600 mils, 3200 mils): Symbol U5 Pin 28 [USB_DM, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(9600 mils, 3400 mils): Symbol U5 Pin 30 [SIM_VDD, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(9600 mils, 3500 mils): Symbol U5 Pin 31 [SIM_DATA, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(9600 mils, 3600 mils): Symbol U5 Pin 32 [SIM_CLK, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(9600 mils, 3700 mils): Symbol U5 Pin 33 [SIM_RST, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(9600 mils, 3800 mils): Symbol U5 Pin 34 [SIM_DET, Input, Line]
+
+***** Sheet /07_User_Interface.kicad_sch/
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(8000 mils, 3600 mils): Symbol U5 Pin 66 [STATUS, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(9600 mils, 500 mils): Symbol U5 Pin 1 [PWRKEY, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(9600 mils, 3100 mils): Symbol U5 Pin 27 [USB_DP, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(9600 mils, 3200 mils): Symbol U5 Pin 28 [USB_DM, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(9600 mils, 3400 mils): Symbol U5 Pin 30 [SIM_VDD, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(9600 mils, 3500 mils): Symbol U5 Pin 31 [SIM_DATA, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(9600 mils, 3600 mils): Symbol U5 Pin 32 [SIM_CLK, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(9600 mils, 3700 mils): Symbol U5 Pin 33 [SIM_RST, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(9600 mils, 3800 mils): Symbol U5 Pin 34 [SIM_DET, Input, Line]
+
+***** Sheet /08_External_Connectors.kicad_sch/
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(8000 mils, 3600 mils): Symbol U5 Pin 66 [STATUS, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(9600 mils, 500 mils): Symbol U5 Pin 1 [PWRKEY, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(9600 mils, 3100 mils): Symbol U5 Pin 27 [USB_DP, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(9600 mils, 3200 mils): Symbol U5 Pin 28 [USB_DM, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(9600 mils, 3400 mils): Symbol U5 Pin 30 [SIM_VDD, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(9600 mils, 3500 mils): Symbol U5 Pin 31 [SIM_DATA, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(9600 mils, 3600 mils): Symbol U5 Pin 32 [SIM_CLK, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(9600 mils, 3700 mils): Symbol U5 Pin 33 [SIM_RST, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(9600 mils, 3800 mils): Symbol U5 Pin 34 [SIM_DET, Input, Line]
+
+ ** ERC messages: 101  Errors 93  Warnings 8

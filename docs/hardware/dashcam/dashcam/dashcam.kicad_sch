@@ -1,0 +1,392 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "1156a13f-921d-4361-8259-896f655d3506")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 200.66 82.55)
+		(size 38.1 20.32)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "0a46cadb-dd1c-458c-b155-08319f6b58ea")
+		(property "Sheetname" "07_User_Interface.kicad_sch"
+			(at 200.66 81.8384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at 200.66 103.4546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "dashcam"
+				(path "/1156a13f-921d-4361-8259-896f655d3506"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 97.79 82.55)
+		(size 33.02 20.32)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "0ab90884-9270-496b-b7e8-b649dd4b9491")
+		(property "Sheetname" "05_Audio_Microphone.kicad_sch"
+			(at 97.79 81.8384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at 97.79 103.4546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "dashcam"
+				(path "/1156a13f-921d-4361-8259-896f655d3506"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 44.45 35.56)
+		(size 31.75 20.32)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "28430f49-38e8-4476-a680-e0f79065274b")
+		(property "Sheetname" "00_System_Overview.kicad_sch"
+			(at 44.45 34.8484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "00_System_Overview.kicad_sch"
+			(at 44.45 56.4646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "dashcam"
+				(path "/1156a13f-921d-4361-8259-896f655d3506"
+					(page "0")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 200.66 35.56)
+		(size 34.29 21.59)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "3002eaf7-efc2-4d9e-bc88-6deeb2aeb2c7")
+		(property "Sheetname" "02_Raspberry_Pi_Core.kicad_sch"
+			(at 200.66 34.8484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at 200.66 57.7346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "dashcam"
+				(path "/1156a13f-921d-4361-8259-896f655d3506"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 44.45 82.55)
+		(size 34.29 21.59)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "581f42ff-c2f6-4331-b370-b2003d1790ae")
+		(property "Sheetname" "04_LTE_Module.kicad_sch"
+			(at 44.45 81.8384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at 44.45 104.7246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "dashcam"
+				(path "/1156a13f-921d-4361-8259-896f655d3506"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 144.78 35.56)
+		(size 33.02 22.86)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "786084be-dee6-4b88-8f7a-b314611602f2")
+		(property "Sheetname" "03_CSI_Camera_Interface.kicad_sch"
+			(at 144.78 34.8484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at 144.78 59.0046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "dashcam"
+				(path "/1156a13f-921d-4361-8259-896f655d3506"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 92.71 35.56)
+		(size 30.48 20.32)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "8b743eec-d0da-433b-ac7f-53667e6ea675")
+		(property "Sheetname" "01_Power_Supply.kicad_sch"
+			(at 92.71 34.8484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "01_Power_Supply.kicad_sch"
+			(at 92.71 56.4646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "dashcam"
+				(path "/1156a13f-921d-4361-8259-896f655d3506"
+					(page "1")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 147.32 82.55)
+		(size 31.75 20.32)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "a58bcb4f-0d1e-4d2a-ae58-685ad8387c00")
+		(property "Sheetname" "06_Storage.kicad_sch"
+			(at 147.32 81.8384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at 147.32 103.4546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "dashcam"
+				(path "/1156a13f-921d-4361-8259-896f655d3506"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 44.45 132.08)
+		(size 36.83 22.86)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c6a0efa9-ec1e-4db7-8ccd-a1c11e5ec4c6")
+		(property "Sheetname" "08_External_Connectors.kicad_sch"
+			(at 44.45 131.3684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at 44.45 155.5246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "dashcam"
+				(path "/1156a13f-921d-4361-8259-896f655d3506"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
